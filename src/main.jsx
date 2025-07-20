@@ -23,7 +23,8 @@ const router = createBrowserRouter([
   {
     path: "/career",
     element: <Career></Career>
-  }
+  },
+  
 ]);
 
 createRoot(document.getElementById('root')).render(
